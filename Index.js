@@ -1,1 +1,1 @@
-let arr = [];
+let arr = ["Aguacate", "Gato", "Conejo", "pelusa", "josé"];
