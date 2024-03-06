@@ -41,3 +41,6 @@ console.log(arr.slice(1, 4));
 let soloTexto = ["Hola", "a", "todos", "como", "estan", "?"];
 let stringResultado = soloTexto.join(' ');
 console.log(stringResultado); 
+
+let subseccion = arr.slice(-3);
+console.log(subseccion); 
