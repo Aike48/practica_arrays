@@ -48,3 +48,6 @@ console.log(subseccion);
 let newArray = arr.slice(0, 1).concat(arr.slice(4));
 console.log(newArray); 
 console.log(arr); 
+
+arr.unshift(...[1, 2]);
+console.log(arr); 
