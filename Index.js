@@ -32,3 +32,6 @@ console.log(arr.pop());
 
 console.log(arr.unshift(4, "cactus"));
 console.log(arr);
+
+console.log(arr.shift()); 
+console.log(arr);
