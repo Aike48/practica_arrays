@@ -23,4 +23,4 @@ function generarValores(n) {
   const arrayDinamico = generarValores(5);
   console.log(arrayDinamico); 
   
-  
+console.log (arr.length);
