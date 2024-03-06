@@ -24,3 +24,6 @@ function generarValores(n) {
   console.log(arrayDinamico); 
   
 console.log (arr.length);
+
+arr.push('gato');
+console.log(arr);
