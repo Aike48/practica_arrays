@@ -37,3 +37,7 @@ console.log(arr.shift());
 console.log(arr);
 
 console.log(arr.slice(1, 4));
+
+let soloTexto = ["Hola", "a", "todos", "como", "estan", "?"];
+let stringResultado = soloTexto.join(' ');
+console.log(stringResultado); 
