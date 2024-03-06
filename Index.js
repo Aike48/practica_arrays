@@ -35,3 +35,5 @@ console.log(arr);
 
 console.log(arr.shift()); 
 console.log(arr);
+
+console.log(arr.slice(1, 4));
