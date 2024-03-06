@@ -44,3 +44,7 @@ console.log(stringResultado);
 
 let subseccion = arr.slice(-3);
 console.log(subseccion); 
+
+let newArray = arr.slice(0, 1).concat(arr.slice(4));
+console.log(newArray); 
+console.log(arr); 
