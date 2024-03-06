@@ -27,3 +27,5 @@ console.log (arr.length);
 
 arr.push('gato');
 console.log(arr);
+
+console.log(arr.pop());
